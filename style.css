@@ -2,13 +2,13 @@ body {
     font-family: 'Ultra', serif;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
-    color: #222;
+    background: #f5f5f5;   /* Açık gri */
+    color: #222;           /* Koyu gri */
 }
 
 header {
-    background: #3a8dde;
-    color: #fff;
+    background: #222;      /* Koyu gri/siyah */
+    color: #fff;           /* Beyaz */
     padding: 20px 0;
     text-align: center;
 }
@@ -27,9 +27,8 @@ nav ul {
 }
 
 nav a {
-    color: #fff;
+    color: #fff;           /* Beyaz */
     text-decoration: none;
-    font-weight: bold;
 }
 
 nav a:hover {
@@ -41,7 +40,7 @@ main {
 }
 
 section {
-    background: #fff;
+    background: #fff;      /* Beyaz */
     padding: 24px;
     border-radius: 8px;
     max-width: 600px;
@@ -50,8 +49,8 @@ section {
 }
 
 footer {
-    background: #222;
-    color: #fff;
+    background: #222;      /* Koyu gri/siyah */
+    color: #fff;           /* Beyaz */
     text-align: center;
     padding: 16px 0;
     position: fixed;
