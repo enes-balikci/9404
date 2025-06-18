@@ -1,0 +1,27 @@
+[
+  {
+    "brand": "Toyota",
+    "models": [
+      {
+        "name": "Corolla",
+        "year": 2023,
+        "engine": "1.8L Hybrid",
+        "power": "122 hp",
+        "torque": "142 Nm",
+        "fuel": "Hybrid",
+        "transmission": "CVT",
+        "dimensions": {
+          "length": "4630 mm",
+          "width": "1780 mm",
+          "height": "1435 mm"
+        },
+        "features": [
+          "ABS",
+          "ESP",
+          "Adaptive Cruise Control",
+          "Lane Assist"
+        ]
+      }
+    ]
+  }
+]
