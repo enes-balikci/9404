@@ -23,5 +23,29 @@
         ]
       }
     ]
+  },
+  {
+    "brand": "BMW",
+    "models": [
+      {
+        "name": "3 Series",
+        "year": 2022,
+        "engine": "2.0L Petrol",
+        "power": "184 hp",
+        "torque": "300 Nm",
+        "fuel": "Petrol",
+        "transmission": "Automatic",
+        "dimensions": {
+          "length": "4709 mm",
+          "width": "1827 mm",
+          "height": "1435 mm"
+        },
+        "features": [
+          "xDrive",
+          "iDrive Controller",
+          "Parking Assistant"
+        ]
+      }
+    ]
   }
 ]
