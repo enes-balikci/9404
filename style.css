@@ -1,6 +1,10 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-font-weight: bold;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #222;
 }
 
 header {
