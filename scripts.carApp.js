@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const app = document.getElementById('car-app');
-  fetch('data/cars.json')
+  fetch('data.cars.json')
     .then(res => res.json())
     .then(data => buildCarUI(data, app));
 });
